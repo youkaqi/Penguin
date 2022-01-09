@@ -14,7 +14,7 @@
 		<div id="header">
 			<div id="navigation">
 				<span id="mobile-navigation">&nbsp;</span>
-				<a href="about.html" class="logo"><img src="images/unnamed-removebg-preview (1).png" alt=""></a>
+				<a href="about.html" class="logo"><img src="unnamed-removebg-preview (1).png" alt=""></a>
 				<ul id="menu">
 					<li>
 						<a href="index.html">主頁</a>
@@ -39,7 +39,7 @@
 		<div id="body">
 			<div>
 				<h1>介紹-認識企鵝</h1>
-				<img src="images/1641134980902.jpg" width="300" height="225"alt="">
+				<img src="1641134980902.jpg" width="300" height="225"alt="">
 				<pre>
 				<h2><font color="pink">企鵝</font> 屬於企鵝目 企鵝科，是一種<font color="pink">不會飛的鳥類</font>。
 
