@@ -1,0 +1,114 @@
+<!doctype html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>保育 - 企鵝</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css">
+	<script src="js/mobile.js" type="text/javascript"></script>
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<div id="navigation">
+				<span id="mobile-navigation">&nbsp;</span>
+				<a href="blog.html" class="logo"><img src="images/unnamed-removebg-preview (1).png" alt=""></a>
+				<ul id="menu">
+					<li>
+						<a href="index.html">主頁</a>
+					</li>
+					<li>
+						<a href="about.html">介紹</a>
+					</li>
+					<li>
+						<a href="type.html">種類</a>
+					
+					</li>
+					<li class="selected">
+						<a href="blog.html">保育</a>
+						
+					</li>
+					<li>
+					<a href="contact.html">聯絡我們</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="body">
+			<div>
+				<h1>如何保育</h1>
+				<table border="0">
+					<tr>
+					<td width="50"height="300"></td>
+					<td><img width="250" height="280"src="images/2981322-XXL.jpg" style="border:2px #FC416F solid;" alt=""></td>
+                   <td width="10"height="100"></td>
+                   <td><font color="White">
+<h2><font color="pink">滅絕原因</font></h2>
+<font size="4">
+	<p><pre>一:不同種類都有可能遇到獵人的濫殺
+
+二；地球暖化導致氣溫上升，而讓企鵝失去更多的棲息地。
+
+三；因為某些因素(聖嬰現象)而使得魚群、魷魚群脫離企鵝的棲息地，
+進而導致企鵝可食用的食物銳減。也讓該地區的企鵝生育率下降。
+
+四；在克羅澤群島有著一片的企鵝群，但因密度制約效果，
+使得生物數量越多，個體之間的競爭就更激烈。
+缺乏食物的影響隨之增強，可能觸發生物數量前所未有迅速且劇烈的下降。
+禽類霍亂已影響附近的馬里恩島以及阿姆斯特丹島，也有部分國王企鵝感染此病。
+
+五:位於南非的黑腳企鵝，在某日遭受到海角蜜蜂的攻擊導致63隻企鵝暴斃。
+
+六:近年來很多無良企業或是少許民眾任意地往大海裡倒棄廢油，
+導致海水汙染，企鵝也因此染病死亡。</font></font></td></p></pre>
+
+			        
+
+
+			        <tr>
+					<td width="50"height="500"></td>
+					<td><img width="250" height="250"src="images/052.jpg" style="border:2px #FC416F solid;" alt=""></td>
+                   <td width="10"height="100"></td>
+                   <td><font color="White">
+
+<p><pre><h2><font color="pink">
+如何保育</font></h2><font size="4">
+一:由政府監督獵人，並且強制規範。
+
+二:積極倡議環保議題，減少暖化的速度，落實環保，增加地球壽命，使冰山不要太快融化。
+
+三:聖嬰現象，也算是地球暖化的影響，所以要積極地確實環保工作。
+
+四:藉由保育人員去維護低方區域的數量，加大獸醫人員的數量，減少病死的機率。
+
+五:規劃保育員區，讓企鵝與其他有害其的生物分開，避免這種現象發生。
+
+六:政府擴大監督的工作，倡議環保的理念，讓人們知道這種行為的危害。</font></font></td></p></pre>
+
+
+				
+						</div>
+				</li>
+					</tr>
+				</table>
+	               
+				</ul>
+			
+			</div>
+		</div>
+		<div id="footer">
+			<div>
+				<div class="connect">
+					
+					<a href="https://www.facebook.com/groups/penguinfans" class="facebook">facebook</a>
+					
+					<a href="https://www.pinterest.com/search/pins/?q=Penguin&rs=typed&term_meta[]=Penguin%7Ctyped" class="pinterest">pinterest</a>
+				</div>
+				<p>&copy; 2023 by Penguin conservation.</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
