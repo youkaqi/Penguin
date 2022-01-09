@@ -173,7 +173,7 @@ img {
 	width: 97.9167%;
 }
 #body.home div.body {
-	background: url(../images/bg-transparent1.png) repeat;
+	background: url(../bg-transparent1.png) repeat;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -244,7 +244,7 @@ img {
 }
 /*----------------------------------------body-styles---------------------------------------*/
 #body div {
-	background: url(../images/bg-transparent2.png) repeat;
+	background: url(../bg-transparent2.png) repeat;
 	margin: 0 auto;
 	max-width:1180px;
 	overflow: hidden;
@@ -693,7 +693,7 @@ img {
 	width: 154px;
 }
 #footer div .connect a {
-	background: url(../images/icons.png) no-repeat;
+	background: url(../icons.png) no-repeat;
 	display: block;
 	float: left;
 	height: 28px;
