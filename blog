@@ -14,7 +14,7 @@
 		<div id="header">
 			<div id="navigation">
 				<span id="mobile-navigation">&nbsp;</span>
-				<a href="blog.html" class="logo"><img src="images/unnamed-removebg-preview (1).png" alt=""></a>
+				<a href="blog.html" class="logo"><img src="unnamed-removebg-preview (1).png" alt=""></a>
 				<ul id="menu">
 					<li>
 						<a href="index.html">主頁</a>
@@ -42,7 +42,7 @@
 				<table border="0">
 					<tr>
 					<td width="50"height="300"></td>
-					<td><img width="250" height="280"src="images/2981322-XXL.jpg" style="border:2px #FC416F solid;" alt=""></td>
+					<td><img width="250" height="280"src="2981322-XXL.jpg" style="border:2px #FC416F solid;" alt=""></td>
                    <td width="10"height="100"></td>
                    <td><font color="White">
 <h2><font color="pink">滅絕原因</font></h2>
@@ -69,7 +69,7 @@
 
 			        <tr>
 					<td width="50"height="500"></td>
-					<td><img width="250" height="250"src="images/052.jpg" style="border:2px #FC416F solid;" alt=""></td>
+					<td><img width="250" height="250"src="052.jpg" style="border:2px #FC416F solid;" alt=""></td>
                    <td width="10"height="100"></td>
                    <td><font color="White">
 
