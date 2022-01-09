@@ -1,0 +1,96 @@
+<!doctype html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>種類 - 企鵝</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css">
+	<script src="js/mobile.js" type="text/javascript"></script>
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<div id="navigation">
+				<span id="mobile-navigation">&nbsp;</span>
+				<a href="blog.html" class="logo"><img src="images/unnamed-removebg-preview (1).png" alt=""></a>
+				<ul id="menu">
+					<li>
+						<a href="index.html">主頁</a>
+					</li>
+					<li>
+						<a href="about.html">介紹</a>
+					</li>
+					<li class="selected">
+						<a href="type.html">種類</a>
+					
+					</li>
+					<li>
+						<a href="blog.html">保育</a>
+						
+					</li>
+					<li>
+					<a href="contact.html">聯絡我們</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="body">
+			<div>
+				<h1>企鵝種類</h1>
+				<table border="0">
+					<tr>
+					<td width="50"height="300"></td>
+					<td><img width="280" height="280" src="images/3d0436871ef9a1188c2f.jpg"style="border:2px #FC416F solid;" alt=""></td>
+                   <td width="10"height="100"></td>
+                   <td><font color="White">
+<h2><font color="pink"><pre>皇帝企鵝</font></h2>
+<font size="4">是企鵝家族中體型最大的屬種,成年皇帝企鵝身高可達120公分,
+皇帝企鵝是群居性動物。它們常用的一種捕食方法是潛入水底50公尺左右，
+然後在那裡的浮冰下表面捕食貼近冰面遊行的南極魚。皇帝企鵝主要以甲殼類動物為食，
+偶爾也捕食小魚和烏賊。它是唯一一種在南極洲的冬季進行繁殖的企鵝。
+在野生環境，皇帝企鵝壽命一般在10年左右，個別壽命可達20年。
+在19世紀末20世紀初，為了獲取皇帝企鵝身上的油脂，
+曾有大量皇帝企鵝遭到人類屠殺，其數量不斷下減。
+由於受公眾輿論強烈譴責，這種野蠻的屠殺才被迫停止。皇帝企鵝的保護狀況為近危 <a target="_blank" href="https://zh.wikipedia.org/wiki/%E7%9A%87%E5%B8%9D%E4%BC%81%E9%B9%85">閱讀更多</a></font></font></td></pre>
+
+
+                    <tr>
+                    <td width="50"height="300"></td>
+                    <td><img width="280" height="280" src="images/5a960b38816fa.jpg"style="border:2px #FC416F solid;"></td>
+                     <td width="10"height="100"></td>
+                   <td><font color="White">
+<h2><font color="pink"><pre>國王企鵝</font></h2>
+<font size="4">是企鵝家族中體型第二大的屬種,成年國王企鵝高約90公分,僅小於皇帝企鵝。
+嘴喙長、耳羽顏色偏橘，有一圈黑邊框，圖案類似水滴形。
+喉嚨至前胸部位為美麗的金黃色。在圈養環境下平均壽命約15至20年。
+主要以魚維生，野外的國王企鵝特別喜歡吃小型的燈籠魚科的魚類，也會吃頭足類如魷魚。
+國王企鵝繁殖期會群聚在一起，繁殖期期間會有領域性，每對領域的範圍約1平方公尺。
+不築巢，每窩下一個蛋，由雌雄輪流孵蛋<a target="_blank" href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%8E%8B%E4%BC%81%E9%B5%9D">閱讀更多</a></font></font></td></pre>
+</div>
+				</li>
+					</tr>
+				</table>
+<div style="text-align:center;">
+<pre><h2><a href="type.html"><font color="white">1</a></font>  <a href="blogsinglepost.html"><font color="white">2 ></a></font></h2></pre>
+</div>
+	               
+				</ul>
+			
+			</div>
+		</div>
+		<div id="footer">
+			<div>
+				<div class="connect">
+					
+					<a href="https://www.facebook.com/groups/penguinfans" class="facebook">facebook</a>
+					
+					<a href="https://www.pinterest.com/search/pins/?q=Penguin&rs=typed&term_meta[]=Penguin%7Ctyped" class="pinterest">pinterest</a>
+				</div>
+				<p>&copy; 2023 by Penguin conservation.</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
