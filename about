@@ -1,0 +1,71 @@
+<!doctype html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>介紹 - 企鵝</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css">
+	<script src="js/mobile.js" type="text/javascript"></script>
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<div id="navigation">
+				<span id="mobile-navigation">&nbsp;</span>
+				<a href="about.html" class="logo"><img src="images/unnamed-removebg-preview (1).png" alt=""></a>
+				<ul id="menu">
+					<li>
+						<a href="index.html">主頁</a>
+					</li>
+					<li class="selected">
+						<a href="about.html">介紹</a>
+					</li>
+					<li>
+						<a href="type.html">種類</a>
+					
+					</li>
+					<li>
+						<a href="blog.html">保育</a>
+						
+					</li>
+					<li>
+						<a href="contact.html">聯絡我們</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="body">
+			<div>
+				<h1>介紹-認識企鵝</h1>
+				<img src="images/1641134980902.jpg" width="300" height="225"alt="">
+				<pre>
+				<h2><font color="pink">企鵝</font> 屬於企鵝目 企鵝科，是一種<font color="pink">不會飛的鳥類</font>。
+
+主要生活在南半球，目前已知全世界的企鵝共有19種，另有兩種已滅絕。多數分布在<font color="pink">南極</font>地區</h2>
+                </pre>				<h2>特徵</h2>
+				<pre><p><p align="left">全身<font color="pink">羽毛密佈</font>,皮下脂肪厚達二至三公分，為特殊的<font color="pink">保溫</font>構造→使牠在冰天雪地中，仍然能夠自在生活
+企鵝擁有其他鳥類的<font color="pink">共同特徵</font>：身上擁有羽毛、尖而突出的堅硬鳥喙及有爪與鱗片的雙腳。
+但跟其他鳥類<font color="pink">不同</font>，因為翅膀的演化，使牠們<font color="pink">無法飛行</font>
+</p></pre>
+				<h2>特長</h2>
+				<pre><p>1.企鵝的趾間有蹼，翅膀也演化成槳狀。這樣的身體結構讓企鵝成為<font color="pink">善泳</font>的動物。
+2.若被天敵追時，牠們會<font color="pink">以腹部貼上冰地上</font>，並用雙腳推動快速逃走。
+**曾分布於北極地區、現已滅絕的<font color="pink">大海雀</font>與企鵝一樣❶耐寒且❷外表相似，曾經被<font color="pink">誤認有親緣關係</font>**</p></pre>
+
+			</div>
+		</div>
+		<div id="footer">
+			<div>
+				<div class="connect">
+				<a href="https://www.facebook.com/groups/penguinfans" class="facebook">facebook</a>
+					
+					<a href="https://www.pinterest.com/search/pins/?q=Penguin&rs=typed&term_meta[]=Penguin%7Ctyped" class="pinterest">pinterest</a>
+				</div>
+				<p>&copy; 2023 by Penguin conservation.</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
