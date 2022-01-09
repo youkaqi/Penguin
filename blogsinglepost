@@ -1,0 +1,98 @@
+<!doctype html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>種類 - 企鵝</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css">
+	<script src="js/mobile.js" type="text/javascript"></script>
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<div id="navigation">
+				<span id="mobile-navigation">&nbsp;</span>
+				<a href="blog.html" class="logo"><img src="images/unnamed-removebg-preview (1).png" alt=""></a>
+				<ul id="menu">
+					<li>
+						<a href="index.html">主頁</a>
+					</li>
+					<li>
+						<a href="about.html">介紹</a>
+					</li>
+					<li class="selected">
+						<a href="type.html">種類</a>
+					
+					</li>
+					<li>
+						<a href="blog.html">保育</a>
+						
+					</li>
+					<li>
+					<a href="contact.html">聯絡我們</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="body">
+			<div>
+				<h1>企鵝種類</h1>
+				<table border="0">
+					<tr>
+                    <td width="50"height="300"></td>
+                    <td><img width="250" height="250"src="images/2415_7pUywW_UU9TBEO.jpg!r800x0.jpg"style="border:2px #FC416F solid;"></td>
+                     <td width="10"height="100"></td>
+                   <td><font color="White">
+<h2><font color="pink"><pre>小藍企鵝</font></h2>
+<font size="4">小企鵝、藍企鵝、神仙企鵝，是企鵝家族中體型最小的物種。
+	有別於其他常見企鵝，它們有一身藍色的羽毛，因此被稱作小藍企鵝。
+	牠們出沒於南澳大利亞及紐西蘭的海岸。
+	小藍企鵝成年普遍身高43公分，。
+	雄性的體型比雌性的略大一點。
+	未成年的小藍企鵝的嘴喙較為短小，靛藍色部分的羽毛也比較淺色。
+	它們壽命很長。牠們平均壽命為6.5歲，目前為止人類所知小藍企鵝的壽命最多可長達20歲。
+	小藍企鵝捕食魚類、魷魚及其他小型的水生動物，因為牠們潛入的海域非常廣闊。
+	野生的小藍企鵝有時會被新澳毛皮海獅捕食<a target="_blank" href="https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%97%8D%E4%BC%81%E9%B5%9D">閱讀更多</a>
+
+	                <tr>
+                    <td width="50"height="300"></td>
+                    <td><img width="280" height="280"src="images/v2-6bb957a1e6fe826b273cd67b877d5a94_r.jpg"style="border:2px #FC416F solid;"></td>
+                     <td width="10"height="100"></td>
+                   <td><font color="White">
+<h2><font color="pink"><pre>頰帶企鵝</font></h2>
+<font size="4">又稱南極企鵝,其頭部下面有一條黑色的紋帶，使牠們看上去好像在戴著盔帽一般，
+	故又稱帽帶企鵝，亦因為牠們有這些特徵，牠們成為了最容易被辨認的企鵝之一。
+	牠們主要以磷蝦、蝦和魚類為食。牠們喜歡在離自己繁殖地不遠的地方掠食。
+	牠們主要集中在半夜或正午來潛水覓食，
+	而每一次潛下去一直也不會維持多於一分鐘，也鮮少深逾200呎。
+	南極企鵝會築起一個個由石頭組成圓形的巢，每次孵約兩隻蛋，
+	而孵蛋的工序則會由雄性和雌性輪流進行，為期5至10天<a target="_blank" href="https://zh.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E4%BC%81%E9%B5%9D">閱讀更多</a></font></font></td></pre>
+</div>
+				</li>
+					</tr>
+				</table>
+<div style="text-align:center;">
+<pre><h2><a href="type.html"><font color="white">< 1</a></font>  <a href="blogsinglepost.html"><font color="white">2</a></font></h2></pre>
+</div>
+	               
+				</ul>
+			
+			</div>
+		</div>
+		<div id="footer">
+			<div>
+				<div class="connect">
+					
+					<a href="https://www.facebook.com/groups/penguinfans" class="facebook">facebook</a>
+					
+					<a href="https://www.pinterest.com/search/pins/?q=Penguin&rs=typed&term_meta[]=Penguin%7Ctyped" class="pinterest">pinterest</a>
+				</div>
+				<p>&copy; 2023 by Penguin conservation.</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+
